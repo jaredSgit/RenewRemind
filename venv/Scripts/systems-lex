@@ -1,0 +1,4 @@
+#!C:\PycharmProjects\untitled\venv\Scripts\python.exe
+
+import systems.lexer
+systems.lexer.main()
